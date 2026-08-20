@@ -1,0 +1,26 @@
+# Local Google Apps Script linkage (contains the private script ID)
+.clasp.json
+
+# Credentials and environment-specific configuration
+.env
+.env.*
+!.env.example
+*credentials*.json
+*credential*.json
+*secret*.json
+config.local.*
+*.local
+
+# Generated files and logs
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

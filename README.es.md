@@ -6,7 +6,7 @@
 
 Fue desarrollada en el contexto operativo de un **centro de investigación** e integra **Telegram, Google Apps Script, OpenAI, Google Sheets y Google Drive** para que los usuarios puedan registrar actividades desde un teléfono o una computadora mediante lenguaje natural, botones interactivos o una combinación de ambos. La evidencia fotográfica puede enviarse directamente por Telegram, almacenarse en Drive y vincularse automáticamente al registro correspondiente.
 
-Este repositorio contiene una **versión pública anonimizada y autorizada para fines académicos y de portafolio profesional**. No incluye credenciales de producción, asociaciones reales de usuarios, datos organizacionales ni identificadores privados de recursos de Google Workspace.
+Este repositorio contiene una **implementación pública anonimizada, publicada con autorización como parte de un portafolio académico y profesional**. No incluye credenciales de producción, asociaciones reales de usuarios, datos organizacionales ni identificadores privados de recursos de Google Workspace. El código fuente y la documentación contenidos en este repositorio público se distribuyen bajo la licencia MIT.
 
 ## El problema
 
@@ -352,7 +352,7 @@ El software surgió de una necesidad real de mejora de procesos dentro de un **c
 
 **El diseño técnico y el desarrollo del código fuente de esta implementación pública fueron realizados por el autor del repositorio.**
 
-La versión pública anonimizada se publica con autorización para **fines académicos y de portafolio profesional**. La institución no se identifica y se excluyen datos de producción, credenciales, información de usuarios, evidencias e infraestructura privada.
+La versión pública anonimizada se publica con autorización como **implementación de portafolio académico y profesional**. La institución no se identifica y se excluyen datos de producción, credenciales, información de usuarios, evidencias e infraestructura privada.
 
 Desde una perspectiva curricular, el proyecto documenta el recorrido completo de:
 
@@ -397,7 +397,11 @@ Para flujos basados en clasp se incluye `.clasp.json.example`, mientras que el `
 
 **Estado:** Activo / en mejora continua.
 
-Esta versión de portafolio no incluye una licencia de código abierto. La disponibilidad pública del código no concede a terceros permiso para copiarlo, modificarlo, redistribuirlo, comercializarlo o implementarlo. Cualquier derecho adicional de reutilización debe solicitarse al titular de derechos que corresponda.
+El código fuente anonimizado y la documentación contenidos en este repositorio público se distribuyen bajo la [Licencia MIT](LICENSE).
+
+La licencia se aplica únicamente al material incluido en este repositorio. Las credenciales de producción, datos organizacionales, infraestructura privada, evidencias operativas, información personal y demás recursos no públicos del entorno operativo original no forman parte de este repositorio ni están comprendidos en esta publicación.
+
+Para mayor contexto sobre el origen del proyecto y la contribución técnica documentada en este repositorio, consulta [PROVENANCE.md](PROVENANCE.md).
 
 ---
 

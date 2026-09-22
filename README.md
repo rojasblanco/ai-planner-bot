@@ -350,7 +350,7 @@ See [SECURITY.md](SECURITY.md).
 
 The software originated from a real process-improvement need in a **research center**. The initial assignment focused on improving a reminder/planner workflow; the repository author subsequently designed and developed the broader bot-based implementation documented here.
 
-**Technical design and source-code development of this public implementation were carried out by the repository author.**
+**The project was designed and developed by the repository author, with assistance from AI tools during parts of the development process.** AI tools supported tasks such as drafting and reviewing code, debugging, comparing implementation options, and improving documentation. The author defined the problem, redesigned the workflow, made the architectural and operational decisions, established the validation criteria, reviewed the system's behavior, and decided the boundaries of the public release.
 
 The sanitized public version is released with permission as an **academic and professional portfolio implementation**. The institution is intentionally not identified, and production data, credentials, user information, evidence, and private infrastructure are excluded.
 

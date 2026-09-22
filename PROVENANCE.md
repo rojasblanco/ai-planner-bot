@@ -6,28 +6,36 @@ AI Planner Bot originated from a real process-improvement need within the operat
 
 The initial assignment involved improving a recurring Google Calendar reminder and planner-follow-up process. During that work, the workflow was progressively redesigned into a broader messaging-based solution for activity registration, evidence handling, planner completion, and adoption monitoring.
 
-## Technical contribution
+## Author contribution
 
-**The technical design and source-code development of the public implementation were carried out by the repository author.**
+**The project and the public implementation documented here were designed and developed by the repository author, with assistance from AI tools during parts of the development process.**
 
-The implementation includes:
+The author's contribution includes:
 
-- messaging-based activity registration;
-- natural-language interpretation;
-- dynamic planner-label detection;
-- guided, free-text, and hybrid workflows;
-- Google Drive evidence automation;
-- retrospective activity registration;
-- role-based planner routing;
-- centralized usage and adoption analytics;
-- built-in onboarding through `/tutorial`;
-- configurable user support and feedback.
+- identifying the broader workflow problem beyond the original reminder task;
+- redesigning the activity-registration and evidence workflow;
+- defining the architecture, operational rules, user-routing logic, and validation criteria;
+- deciding how Telegram, Google Apps Script, the configured AI service, Google Sheets, and Google Drive should interact;
+- implementing, reviewing, testing, and iteratively refining the workflow based on real operational use;
+- defining the public-release boundaries and preparing the sanitized repository.
+
+## AI-assisted development
+
+AI tools were used as development aids for tasks such as drafting and reviewing code, debugging, comparing implementation options, checking consistency, and improving documentation.
+
+The project remained a single-author development. AI assistance supported implementation work but did not replace the author's decisions about the problem, workflow, architecture, operational rules, validation, testing, or publication.
+
+## Organizational context and acknowledgement
+
+Development occurred in an organizational environment that supplied the operational context, workflows, infrastructure, and real-world use conditions needed to understand and solve the problem. That contribution is acknowledged here.
+
+The public repository intentionally excludes the organization's private datasets, credentials, production identifiers, operational evidence, private Google Workspace resources, trademarks, and other confidential or non-public assets.
 
 ## Public portfolio version
 
 This repository contains a **sanitized public version released with permission as a public academic and professional portfolio implementation**.
 
-The public source code in this repository is distributed under the MIT License. This public release does not include or grant access to the research center's production environment, operational data, private infrastructure, credentials, or other non-public institutional resources.
+The public source code and documentation in this repository are distributed under the MIT License. This public release does not include or grant access to the research center's production environment, operational data, private infrastructure, credentials, or other non-public institutional resources.
 
 The research center is intentionally not identified. Production-specific information remains outside the repository, including:
 
@@ -41,12 +49,10 @@ The research center is intentionally not identified. Production-specific informa
 
 ## Purpose of this repository
 
-The repository documents the technical contribution and the evolution of the public codebase. Git history can provide useful technical traceability of future public changes, while earlier internal development evidence remains separate from the public repository.
+The repository documents the project's technical contribution and the evolution of the public codebase. Git history can provide technical traceability for future public changes, while earlier internal development evidence remains separate from the public repository.
 
-## Intellectual-property and licensing note
+## Licensing scope
 
-This document describes the provenance of the project and the technical contribution represented by this public repository. It does not, by itself, determine or claim exclusive ownership of any institutional intellectual-property rights, confidential information, production assets, organizational data, or other non-public resources associated with the original operational environment.
+The MIT License applies to the source code and documentation published in this repository. Production credentials, private organizational data, operational evidence, private Google Workspace resources, internal documents, trademarks, infrastructure, and other non-public assets are not part of this repository or this license.
 
-The sanitized source code and documentation contained in this public repository are distributed under the MIT License. See [LICENSE](LICENSE) for the applicable terms.
-
-The MIT License applies only to the material actually included in this repository. It does not apply to production credentials, organizational datasets, private Google Workspace resources, operational evidence, personal data, institutional infrastructure, trademarks, or other materials that are not included in the public repository.
+See [LICENSE](LICENSE) for the applicable terms.

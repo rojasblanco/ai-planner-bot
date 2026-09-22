@@ -350,7 +350,7 @@ Consulta [SECURITY.md](SECURITY.md).
 
 El software surgió de una necesidad real de mejora de procesos dentro de un **centro de investigación**. La tarea inicial estaba orientada a optimizar un flujo de recordatorios y planner; posteriormente, el autor del repositorio diseñó y desarrolló la implementación más amplia basada en bot que se documenta aquí.
 
-**El diseño técnico y el desarrollo del código fuente de esta implementación pública fueron realizados por el autor del repositorio.**
+**El proyecto fue diseñado y desarrollado por el autor del repositorio, con apoyo de herramientas de inteligencia artificial durante distintas partes del proceso de desarrollo.** Estas herramientas apoyaron tareas como redacción y revisión de código, depuración, comparación de alternativas de implementación y mejora de documentación. El autor definió el problema, rediseñó el flujo, tomó las decisiones de arquitectura y operación, estableció los criterios de validación, revisó el comportamiento del sistema y decidió los límites de la publicación pública.
 
 La versión pública anonimizada se publica con autorización como **implementación de portafolio académico y profesional**. La institución no se identifica y se excluyen datos de producción, credenciales, información de usuarios, evidencias e infraestructura privada.
 
